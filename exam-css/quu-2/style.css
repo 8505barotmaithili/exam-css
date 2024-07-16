@@ -1,0 +1,46 @@
+
+body{
+    background-color: black;
+}form{
+   border: 4px dotted black;
+   height: 400px;
+   width: 20%;
+   padding: 90px;
+   margin-top: 10%;
+   margin-left: 30%;
+   background-color: white;
+}
+label{
+   font-size: 20px;
+   
+}
+
+#name{
+   font-size: 20px;
+   margin: 20px;
+}
+
+#fname{
+   font-size: 20px;
+   margin: 20px;
+}
+
+#contact{
+   font-size: 20px;
+   margin: 20px;
+}
+
+#password{
+   font-size: 20px;
+   margin: 20px;
+}
+button{
+   height: 40px;
+   width: 40%;
+   color: white;
+   background-color: orange;
+margin-top: 20px;
+border-radius: 20px;
+margin-left: 20%;
+   
+}

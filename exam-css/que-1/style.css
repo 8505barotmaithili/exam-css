@@ -1,0 +1,98 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+.footer{
+   height: 400px;
+   width: 100%;
+   background-color: orange;
+}
+.footer-container{
+   height: 400px;
+   width:80%;
+   
+   margin: auto;
+  
+
+}
+.footer-box1{
+   display: flex;
+   justify-content: space-around
+}
+.logo{
+   height: 70px;
+   width: 20%;
+   font-size: 50px;
+
+   
+}
+.logo p{
+   
+   font-size: 20px;
+   margin-top: 3%;
+
+
+}
+.logo a{
+   text-decoration: none;
+   color: white;
+   font-size: 30px;
+   padding: 10px;
+   margin-top: 4%;
+}
+
+.support{
+   height: 150px;
+   width: 10%;
+  
+}
+.support ul li{
+   list-style: none;
+   font-size: 20px;
+}
+.support ul h2{
+   font-size: 30px;
+}
+.links{
+   height: 200px;
+   width: 20%;
+  
+}
+.links ul li{
+   list-style: none;
+   font-size: 20px;
+}
+.links ul h2{
+   font-size: 30px;
+}
+.subscribe{
+   width: 20%;
+  margin-top: 5%;
+  margin-left: -20%;
+}
+
+input{
+   height: 50px;
+   width: 100%;
+   border-radius: 40px;
+   outline: none;
+   border: none;
+   position: relative;
+}
+::placeholder{
+   padding: 20px;
+   font-size: 15pxpx;
+}
+
+button{
+   padding:10px;
+   color:white;
+   background-color: orangered;
+   border-radius: 30px;
+   border: none;
+   position: absolute;
+   left: 1550px;
+   height: 50px;
+   width: 120px;
+}
